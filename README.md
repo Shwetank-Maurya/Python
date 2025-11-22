@@ -3,7 +3,7 @@
 ---
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)  
 [![Kaggle](https://img.shields.io/badge/Kaggle-Follow-orange?logo=kaggle&logoColor=pink)](https://www.kaggle.com/shwetankmaurya)  
-[![Medium](https://img.shields.io/badge/Medium-Follow-red?logo=medium&logoColor=blue)](https://medium.com/@shwetankmaurya)  
+[![Medium](https://img.shields.io/badge/Medium-Follow-red?logo=medium&logoColor=blue)](https://medium.com/@shwetank_maurya)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?logo=github&logoColor=red)](https://github.com/Shwetank-Maurya)
 ---
 
